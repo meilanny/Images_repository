@@ -1,2 +1,2 @@
 # Images_repository
-Saving images.
+Saving images for DSA exercises.
